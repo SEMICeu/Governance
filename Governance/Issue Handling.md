@@ -1,5 +1,5 @@
 # Issue Handling
-This document describes the policiy regarding the handling of issues that are posted on the different GitHub repositories.
+This document describes the governance regarding the handling of issues that are posted on the different GitHub repositories.
 
 ## Labeling
 The following labels will be used to indicate the status of an issue:
