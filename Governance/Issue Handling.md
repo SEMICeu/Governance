@@ -2,7 +2,7 @@
 This document describes the policiy regarding the handling of issues that are posted on the different GitHub repositories.
 
 ## Labeling
-The following labels will be used to indicate the status of an issue.
+The following labels will be used to indicate the status of an issue:
 - feedback-requested: issues with concrete questions for which the community has to provide an opinion.
 - status:waitingForDecisionW3C: issues that cannot be resolved without an statement at the level of W3C.
 - status:resolution-provided: issues that have a clear resolution statement, which has not yet been applied in the draftrelease.
